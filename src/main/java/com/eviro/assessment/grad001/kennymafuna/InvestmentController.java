@@ -1,4 +1,4 @@
-package com.eviro.assessment.grad001.kennymafuna.controller;
+package com.eviro.assessment.grad001.kennymafuna;
 
 import com.eviro.assessment.grad001.kennymafuna.entity.InvestmentEntity;
 import com.eviro.assessment.grad001.kennymafuna.service.InvestmentService;

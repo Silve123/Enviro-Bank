@@ -15,7 +15,7 @@ http://localhost:5555/users/{UserName}
 To get a list of all products the investor has invested in, make a GET request to:
 
 ```http
-http://localhost:5555/users/all
+http://localhost:5555/investments/user/{userId}
 ```
 
 ### Create a Withdrawal Notice
